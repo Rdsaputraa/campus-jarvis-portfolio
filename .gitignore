@@ -1,0 +1,7 @@
+.env
+.env.*
+*.db
+*.log
+*.pdf
+*.docx
+.DS_Store
